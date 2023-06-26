@@ -33,15 +33,15 @@
 }
 
 .black {
-    background-color: deepskyblue;
+    background-color: rgb(110, 79, 79);
 }
 
 .white {
-    background-color: #eed4ac;
+    background-color: rgb(208, 208, 208);
 }
 
 .selected {
-    background-color: brown;
+    background-color: rgb(125, 77, 77);
 }
 
 .available {
